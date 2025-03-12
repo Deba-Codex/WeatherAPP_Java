@@ -64,4 +64,5 @@ public class WeatherApp {
         System.out.println("Humidity: " + hum + "%");
         System.out.println("Condition: " + desc);
     }
+    // Command to run : java -cp target/WeatherApp-1.0-SNAPSHOT.jar org.example.WeatherApp
 }
